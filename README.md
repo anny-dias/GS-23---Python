@@ -35,7 +35,7 @@ Os sistemas eletrônicos podem ser integrados a outros sistemas de saúde, como 
 Em resumo, a transição para um sistema eletrônico de gerenciamento de registros com prescrição eletrônica traz benefícios significativos em termos de eficiência, precisão, acessibilidade, segurança e colaboração na prestação de cuidados de saúde.
 
 ## Link para o vídeo
-
+aqui
 
 ## Copyright
 
