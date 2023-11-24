@@ -37,6 +37,9 @@ Em resumo, a transição para um sistema eletrônico de gerenciamento de registr
 ## Link para o vídeo
 https://youtu.be/R-ErbdKbMko
 
+## Documento em PDF
+https://docs.google.com/document/d/13QJKxf8RnYLqInyPV02eXj5N4hIMnpIQ7FJCivb-Y00/edit?usp=sharing
+
 ## Copyright
 
 ATENÇÃO: O programa deve ser utilizado EXCLUSIVAMENTE como forma de estudos para aqueles que baixarem sem serem as desenvolvedoras. <br>
