@@ -19,17 +19,17 @@ Neste trabalho, exploraremos as principais causas do desperdício de medicamento
 
   Um sistema de gerenciamento eletrônico de registros com prescrição eletrônica oferece várias vantagens em comparação com sistemas tradicionais baseados em papel. Aqui estão algumas das principais diferenças e benefícios:
 
--Eficiência e Rapidez:
+- Eficiência e Rapidez:
  A prescrição eletrônica agiliza o processo, permitindo que os profissionais de saúde gerem e transmitam receitas de forma rápida e eficiente. O acesso eletrônico aos registros também reduz o tempo gasto na busca por informações específicas.
--Precisão e Redução de Erros:
+- Precisão e Redução de Erros:
   A prescrição eletrônica reduz significativamente o risco de erros, pois elimina a necessidade de interpretar caligrafias e permite a integração direta com sistemas de farmácia.
--Acesso Remoto e Colaboração:
+- Acesso Remoto e Colaboração:
   Com sistemas eletrônicos, os profissionais de saúde podem acessar registros e prescrições de qualquer lugar, facilitando a colaboração entre diferentes profissionais e melhorando a continuidade do cuidado.
--Histórico do Paciente:
+- Histórico do Paciente:
   Os sistemas eletrônicos oferecem um histórico mais completo e acessível do paciente, incluindo todas as prescrições anteriores, alergias, exames e outros dados relevantes.
--Segurança e Privacidade:
+- Segurança e Privacidade:
   Sistemas eletrônicos geralmente implementam medidas robustas de segurança para proteger a privacidade do paciente, como autenticação de usuário, criptografia e trilhas de auditoria.
--Integração com Outros Sistemas:
+- Integração com Outros Sistemas:
 Os sistemas eletrônicos podem ser integrados a outros sistemas de saúde, como laboratórios e farmácias, facilitando a troca de informações e melhorando a coordenação do cuidado.
 
 Em resumo, a transição para um sistema eletrônico de gerenciamento de registros com prescrição eletrônica traz benefícios significativos em termos de eficiência, precisão, acessibilidade, segurança e colaboração na prestação de cuidados de saúde.
